@@ -4,7 +4,7 @@
 This project has been built to create an Imbalance detector on stock/forex data.
 > In trading, "imbalance" refers to a situation in the market where there is a significant disparity between buy and sell orders. This can lead to sharp price movements as the market adjusts to the excess demand or supply. Imbalances often occur during periods of high volatility and can be indicators of future price direction.
  
-[!Imbalance concept](img/Imbalance_concept.png)
+![Imbalance concept](img/Imbalance_concept.png)
 
  ## Language and Dependencies
  This project has been built in Python, using the following dependencies:
